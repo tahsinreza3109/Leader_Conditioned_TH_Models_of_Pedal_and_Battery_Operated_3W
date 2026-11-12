@@ -1,0 +1,16 @@
+# tested with Python 3.14.6 on Windows 11
+numpy==2.4.6
+pandas==2.3.3
+scipy==1.18.0
+statsmodels==0.14.6
+pingouin==0.6.1
+matplotlib==3.11.1
+openpyxl==3.1.5
+nbformat==5.10.4
+nbconvert==7.17.1
+ipykernel==7.3.0
+jupyter==1.1.1
+pillow==12.3.0
+opencv-python  # notebook 4, only to read the original videos; tested with OpenCV 5.0.0
+# optional, only to re-evaluate the YOLO detector instead of using data/raw/yolo/yolo_eval_cache.json:
+# ultralytics==8.4.*  PyYAML

@@ -1,0 +1,6 @@
+data/
+outputs/
+outputs_TRA/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
